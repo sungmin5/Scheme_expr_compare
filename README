@@ -1,0 +1,2 @@
+This is a prototype a procedure expr-compare that compares two Scheme expressions x and y, 
+and produces a difference summary of where the two expressions are the same and where they differ.
